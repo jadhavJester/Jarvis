@@ -1,0 +1,8 @@
+pyttsx3
+requests
+psutil
+speechrecognition
+selenium
+python-dotenv
+webdriver-manager
+google-generativeai
