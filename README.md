@@ -133,3 +133,7 @@ Released under the MIT License for maximum freedom and collaboration.
 JARVIS isn’t just a codebase—it’s your own smart agent. Every feature, from wake-word to memory, makes the experience more immersive. Add your flair, share your usage GIFs, and make it truly personalized!
 
 *“I am here, always listening and ready to assist. Just say the word.”*
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
